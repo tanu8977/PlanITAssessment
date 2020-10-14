@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="80.37" tests="4" errors="0" skipped="0" failures="2">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jre1.8.0_241\bin"/>
+    <property name="java.vm.version" value="25.241-b07"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\tanuj.000\workspace\Mavenproject"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="AU"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\tanuj.000\workspace\Mavenproject"/>
+    <property name="java.runtime.version" value="1.8.0_241-b07"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files (x86)\Java\jre1.8.0_241\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.io.tmpdir" value="C:\Users\tanuj.000\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Users\tanuj.000\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf7715684982386602180.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Java\jre1.8.0_241\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_241/bin/server;C:/Program Files/Java/jre1.8.0_241/bin;C:/Program Files/Java/jre1.8.0_241/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Jitterbit Agent\bin;C:\Program Files (x86)\Jitterbit Agent\axis\lib;C:\OpenSSL-Win64\;&quot;C:\Users\tanuj.000\AppData\Local\Programs\Appium;C:\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk\platforms;C:\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk\platform-tools;&quot;;C:\Program Files\adt-bundle-windows-x86-20140702\sdk\platform-tools;C:\Program Files\adt-bundle-windows-x86-20140702\sdk\tools;C:\Program Files\adt-bundle-windows-x86-20140702\sdk;C:\Program Files (x86)\apache-ant-1.9.4\bin;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Java\jre1.8.0_241\bin;C:\gradle-5.4.1\bin;C:\Users\tanuj.000\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\Users\tanuj.000\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Salesforce CLI\bin;C:\Users\tanuj.000\AppData\Local\GitHubDesktop\bin;C:\Users\tanuj.000\AppData\Roaming\npm;;C:\Users\tanuj.000\Downloads\eclipse-jee-neon-R-win32-x86_64\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\tanuj.000"/>
+    <property name="user.timezone" value="Australia/Sydney"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="tanuj"/>
+    <property name="java.class.path" value="C:\Users\tanuj.000\Downloads\eclipse-jee-neon-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_1.8.3.20180227-2135\jars\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="C:\Program Files (x86)\Java\jre1.8.0_241"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="1.8.0_241"/>
+    <property name="java.ext.dirs" value="C:\Program Files (x86)\Java\jre1.8.0_241\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files (x86)\Java\jre1.8.0_241\lib\resources.jar;C:\Program Files (x86)\Java\jre1.8.0_241\lib\rt.jar;C:\Program Files (x86)\Java\jre1.8.0_241\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jre1.8.0_241\lib\jsse.jar;C:\Program Files (x86)\Java\jre1.8.0_241\lib\jce.jar;C:\Program Files (x86)\Java\jre1.8.0_241\lib\charsets.jar;C:\Program Files (x86)\Java\jre1.8.0_241\lib\jfr.jar;C:\Program Files (x86)\Java\jre1.8.0_241\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\tanuj.000\workspace\Mavenproject\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+  </properties>
+  <testcase name="testcase4" classname="maven.testcases4" time="16.049">
+    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//body/div[2]/div[1]/div[1]/div[1]/p[2]/a[1]&quot;}&#10;  (Session info: chrome=85.0.4183.121)&#10;  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 48 milliseconds&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;2.47.1&apos;, revision: &apos;unknown&apos;, time: &apos;2015-07-30 11:02:44&apos;&#10;System info: host: &apos;DESKTOP-K0O982J&apos;, ip: &apos;192.168.0.11&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;x86&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_241&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:52557}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\Users\tanuj.000\AppData\Local\Temp\scoped_dir25292_1264347901}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=85.0.4183.121, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]&#10;Session ID: ec943ea3ce21217d08eb9c088db50925&#10;*** Element info: {Using=xpath, value=//body/div[2]/div[1]/div[1]/div[1]/p[2]/a[1]}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//body/div[2]/div[1]/div[1]/div[1]/p[2]/a[1]"}
+  (Session info: chrome=85.0.4183.121)
+  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 48 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'DESKTOP-K0O982J', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:52557}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\Users\tanuj.000\AppData\Local\Temp\scoped_dir25292_1264347901}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=85.0.4183.121, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: ec943ea3ce21217d08eb9c088db50925
+*** Element info: {Using=xpath, value=//body/div[2]/div[1]/div[1]/div[1]/p[2]/a[1]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:348)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:445)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:358)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:340)
+	at maven.testcases4.testcase4(testcases4.java:21)
+</failure>
+    <system-err><![CDATA[Starting ChromeDriver 84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}) on port 30523
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping Starting ChroCmehDriver 8romeDriver sa4.0.4147.f30 (48b3e868b4cc0aa7e814951e9690b.6f6949e
+110a8-refs/branch-heads/4147@{#310}) on port 32628
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+Starting ChromeDriver 84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}) on port 5983
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Starting ChromeDriver 84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147C@hromeDri{#310}) on port 18171
+Only locver was started successfully.
+al connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ChromeDriver was started successfully.
+[1602648199.393][WARNING]: This version of ChromeDriver has not been tested with Chrome version 85.
+[1602648199.732][WARNING]: This version of ChromeDriver has not been tested with Chrome version 85.
+[1602648200.373][WARNING]: This versio[16026n of Chr48200.494][WARNING]: This version of ChromeDriver has not been omeDriver has not been tested with Chrome version 85.
+tested with Chrome version 85.
+]]></system-err>
+  </testcase>
+  <testcase name="testcas" classname="maven.testcase1" time="21.025"/>
+  <testcase name="test" classname="maven.testcase2" time="21.648"/>
+  <testcase name="testcase3" classname="maven.testcase3" time="21.648">
+    <failure message="expected:&lt;Thanks Tanuja, we appreciate your feedback.&gt; but was:&lt;We welcome your feedback - tell it how it is.&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<Thanks Tanuja, we appreciate your feedback.> but was:<We welcome your feedback - tell it how it is.>
+	at org.testng.Assert.fail(Assert.java:89)
+	at org.testng.Assert.failNotEquals(Assert.java:489)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:171)
+	at org.testng.Assert.assertEquals(Assert.java:181)
+	at maven.testcase3.testcase3(testcase3.java:30)
+]]></failure>
+  </testcase>
+</testsuite>
